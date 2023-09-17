@@ -1,7 +1,6 @@
 package ua.ithillel.hibernatehw.repo;
 
 import jakarta.persistence.EntityManager;
-import jakarta.persistence.TypedQuery;
 import lombok.RequiredArgsConstructor;
 import org.hibernate.SessionFactory;
 import ua.ithillel.hibernatehw.model.entity.Student;
